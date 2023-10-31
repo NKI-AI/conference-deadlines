@@ -4,3 +4,4 @@ vendor
 .vscode
 .DS_Store
 .idea
+utils/sorted_data.yml

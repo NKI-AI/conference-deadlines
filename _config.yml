@@ -1,13 +1,13 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: AI for Oncology Conference Deadlines
+description: Countdowns to top conferences on AI/radiology/digital pathology/oncology
+author: AI for Oncology lab (Netherlands Cancer Institute)
 
-domain: "aideadlin.es"
+domain: "deadlines.aiforoncology.nl"
 baseurl: ""
 
-twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+twitter_hashtag: AI4Oncology
+github_username: NKI-AI
+github_repo: conference-deadlines
 
 markdown: kramdown
 ga_id:
