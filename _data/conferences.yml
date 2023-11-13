@@ -1,4 +1,60 @@
 ---
+
+
+- title: ESMO
+  year: 2024
+  id: esmo2024
+  link: https://www.esmo.org/meeting-calendar/esmo-congress-2024
+  deadline: '2024-04-01 23:59:59'
+  timezone: UTC+1
+  place: Barcelona, Spain
+  date: September 13 - September 17, 2024
+  start: 2024-09-13
+  end: 2024-09-17
+  sub: CLIN
+  note: Conference on medical oncology, includes some DL. Only short abstract, good networking event. Abstract deadline not yet mentioned, 1 April 2024 is a guess. More info <a href='https://www.esmo.org/meeting-calendar/esmo-congress-2024'>here</a>.
+
+
+- title: ECDP
+  year: 2024
+  id: ecdp2024
+  link: https://www.ecdp2024.org/
+  deadline: '2024-03-01 23:59:59'
+  timezone: UTC+2
+  place: Vilnius, Lithuania
+  date: June 5 - June 8, 2024
+  start: 2024-06-05
+  end: 2024-06-08
+  sub: PATH
+  note: Conference on digital pathology, includes more and more DL. Only short abstract, good networking event. Abstract deadline not yet mentioned, 1 March 2024 is a guess. More info <a href='https://www.ecdp2024.org/'>here</a>.
+
+
+- title: MIDL
+  year: 2024
+  id: midl2024
+  link: https://2024.midl.io/
+  deadline: '2024-01-31 23:59:59'
+  timezone: UTC+1
+  place: Paris, France
+  date: July 3 - July 5, 2024
+  start: 2024-07-03
+  end: 2024-07-05
+  sub: CV
+  note: Medical Imaging with Deep Learning: Any CV for medical domain is accepted. More info <a href='https://2024.midl.io/'>here</a>.
+
+- title: MICCAI
+  year: 2024
+  id: miccai2024
+  link: https://conferences.miccai.org/2024/en/
+  deadline: '2024-03-07 23:59:59'
+  timezone: UTC+1
+  place: Marrakesh, Morocco
+  date: October 6 - October 10, 2024
+  start: 2024-10-06
+  end: 2024-10-10
+  sub: CV
+  note: More info <a href='https://conferences.miccai.org/2024/en/'>here</a>.
+
 - title: ISMRM
   year: 2024
   id: ismsrm24
