@@ -1,4 +1,20 @@
 ---
+
+
+
+- title: MIDL
+  year: 2024
+  id: midl2024
+  link: https://2024.midl.io/
+  deadline: '2024-01-31 23:59:59'
+  timezone: UTC+1
+  place: Paris, France
+  date: July 3 - July 5, 2024
+  start: 2023-06-03
+  end: 2023-06-05
+  sub: CV
+  note: Medical Imaging with Deep Learning: Any CV for medical domain is accepted. More info <a href='https://2024.midl.io/'>here</a>.
+
 - title: MICCAI
   year: 2024
   id: miccai2024
