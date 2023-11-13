@@ -22,8 +22,8 @@
   timezone: UTC+1
   place: Paris, France
   date: July 3 - July 5, 2024
-  start: 2023-06-03
-  end: 2023-06-05
+  start: 2024-06-03
+  end: 2024-06-05
   sub: CV
   note: Medical Imaging with Deep Learning: Any CV for medical domain is accepted. More info <a href='https://2024.midl.io/'>here</a>.
 
@@ -35,8 +35,8 @@
   timezone: UTC+1
   place: Marrakesh, Morocco
   date: October 6 - October 10, 2024
-  start: 2023-10-06
-  end: 2023-10-10
+  start: 2024-10-06
+  end: 2024-10-10
   sub: CV
   note: More info <a href='https://conferences.miccai.org/2024/en/'>here</a>.
 
