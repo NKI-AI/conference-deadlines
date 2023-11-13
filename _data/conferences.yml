@@ -8,7 +8,7 @@
   deadline: '2024-04-01 23:59:59'
   timezone: UTC+1
   place: Barcelona, Spain
-  date: June 5 - July 8, 2024
+  date: September 13 - September 17, 2024
   start: 2024-09-13
   end: 2024-09-17
   sub: CLIN
@@ -22,7 +22,7 @@
   deadline: '2024-03-01 23:59:59'
   timezone: UTC+2
   place: Vilnius, Lithuania
-  date: June 5 - July 8, 2024
+  date: June 5 - June 8, 2024
   start: 2024-06-05
   end: 2024-06-08
   sub: PATH
@@ -37,8 +37,8 @@
   timezone: UTC+1
   place: Paris, France
   date: July 3 - July 5, 2024
-  start: 2024-06-03
-  end: 2024-06-05
+  start: 2024-07-03
+  end: 2024-07-05
   sub: CV
   note: Medical Imaging with Deep Learning: Any CV for medical domain is accepted. More info <a href='https://2024.midl.io/'>here</a>.
 
