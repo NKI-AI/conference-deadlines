@@ -1,33 +1,34 @@
 ---
 
-
-- title: ESMO
+- title: CVPR
   year: 2024
-  id: esmo2024
-  link: https://www.esmo.org/meeting-calendar/esmo-congress-2024
-  deadline: '2024-04-01 23:59:59'
-  timezone: UTC+1
-  place: Barcelona, Spain
-  date: September 13 - September 17, 2024
-  start: 2024-09-13
-  end: 2024-09-17
-  sub: CLIN
-  note: Conference on medical oncology, includes some DL. Only short abstract, good networking event. Abstract deadline not yet mentioned, 1 April 2024 is a guess. More info <a href='https://www.esmo.org/meeting-calendar/esmo-congress-2024'>here</a>.
+  id: cvpr24
+  link: https://cvpr.thecvf.com/Conferences/2024
+  deadline: '2023-11-17 23:59:59'
+  abstract_deadline: '2023-11-03 23:59:59'
+  timezone: America/Los_Angeles
+  place: Seattle, Washington, USA
+  date: June 17-21, 2024
+  start: 2024-06-17
+  end: 2024-06-21
+  hindex: 389
+  sub: CV
+  note: Mandatory paper registration deadline on November 03, 2023 and optional supplementary
+    material deadline on November 26, 2023. More info <a href='https://cvpr.thecvf.com/Conferences/2024'>here</a>.
 
-
-- title: ECDP
+- title: ICPRAI
   year: 2024
-  id: ecdp2024
-  link: https://www.ecdp2024.org/
-  deadline: '2024-03-01 23:59:59'
-  timezone: UTC+2
-  place: Vilnius, Lithuania
-  date: June 5 - June 8, 2024
-  start: 2024-06-05
-  end: 2024-06-08
-  sub: PATH
-  note: Conference on digital pathology, includes more and more DL. Only short abstract, good networking event. Abstract deadline not yet mentioned, 1 March 2024 is a guess. More info <a href='https://www.ecdp2024.org/'>here</a>.
-
+  id: icprai24
+  full_name: International Conference on Pattern Recognition and Artificial Intelligence
+  link: http://icprai2024.org/
+  deadline: '2023-12-15 23:59:59'
+  timezone: UTC+9
+  place: Jeju Island, South Korea
+  date: Jun 18-21, 2024
+  start: 2024-06-18
+  end: 2024-06-21
+  sub: ML
+  note: Soliciting both regular papers and work-in-progress papers. More info <a href='http://icprai2024.org/'>here</a>.
 
 - title: MIDL
   year: 2024
@@ -40,32 +41,8 @@
   start: 2024-07-03
   end: 2024-07-05
   sub: CV
-  note: Medical Imaging with Deep Learning: Any CV for medical domain is accepted. More info <a href='https://2024.midl.io/'>here</a>.
-
-- title: MICCAI
-  year: 2024
-  id: miccai2024
-  link: https://conferences.miccai.org/2024/en/
-  deadline: '2024-03-07 23:59:59'
-  timezone: UTC+1
-  place: Marrakesh, Morocco
-  date: October 6 - October 10, 2024
-  start: 2024-10-06
-  end: 2024-10-10
-  sub: CV
-  note: More info <a href='https://conferences.miccai.org/2024/en/'>here</a>.
-
-- title: ISMRM
-  year: 2024
-  id: ismsrm24
-  link: https://www.ismrm.org
-  deadline: '2023-11-08 23:59:59'
-  timezone: UTC
-  place: Singapore
-  date: May 04-09, 2024
-  start: 2024-05-05
-  end: 2024-05-09
-  sub: MRI
+  note: Medical Imaging with Deep Learning. Any CV for medical domain is accepted.
+    More info <a href='https://2024.midl.io/'>here</a>.
 
 - title: ICML
   year: 2024
@@ -94,135 +71,45 @@
   sub: ML
   note: Please check the website for the latest updates.
 
-- title: SaTML
+- title: ECDP
   year: 2024
-  id: satml24
-  full_name: IEEE Conference on Secure and Trustworthy Machine Learning
-  link: https://satml.org/
-  deadline: '2023-10-11 23:59:59'
-  abstract_deadline: '2023-10-04 23:59:59'
-  timezone: UTC-12
-  place: Toronto, Canada
-  date: April 2024
-  start: 2024-04-01
-  end: 2024-04-01
-  sub: ML
-  note: Check the website for exact conference dates.
-
-- title: ICPRAI
-  year: 2024
-  id: icprai24
-  full_name: International Conference on Pattern Recognition and Artificial Intelligence
-  link: http://icprai2024.org/
-  deadline: '2023-12-15 23:59:59'
-  timezone: UTC+9
-  place: Jeju Island, South Korea
-  date: Jun 18-21, 2024
-  start: 2024-06-18
-  end: 2024-06-21
-  sub: ML
-  note: Soliciting both regular papers and work-in-progress papers. More info <a href='http://icprai2024.org/'>here</a>.
-
-- title: WACV
-  year: 2024
-  id: wacv24
-  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
-  link: https://wacv2024.thecvf.com
-  deadline: '2023-08-30 11:59:59'
-  timezone: America/Los_Angeles
-  place: Waikoloa, Hawaii, USA
-  date: January 3-7, 2024
-  start: 2024-01-03
-  end: 2024-01-07
-  hindex: 76
-  sub: CV
-  note: This is the Round 2 submission. Paper Registration is on August 23rd 2023. More info <a href='https://wacv2024.thecvf.com/submissions/'>here</a>.
-
-- title: ICLR
-  year: 2024
-  id: iclr24
-  link: https://iclr.cc/Conferences/2024
-  deadline: '2023-09-28 23:59:59'
-  abstract_deadline: '2023-09-23 23:59:59'
-  timezone: UTC-12
-  place: Vienna, Austria
-  date: May 07-11, 2024
-  start: 2024-05-07
-  end: 2024-05-11
-  hindex: 286
-  sub: ML
-  note: Mandatory abstract deadline on September 23, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
-  
-- title: CVPR
-  year: 2024
-  id: cvpr24
-  link: https://cvpr.thecvf.com/Conferences/2024
-  deadline: '2023-11-17 23:59:59'
-  abstract_deadline: '2023-11-03 23:59:59'
-  timezone: America/Los_Angeles
-  place: Seattle, Washington, USA
-  date: June 17-21, 2024
-  start: 2024-06-17
-  end: 2024-06-21
-  hindex: 389
-  sub: CV
-  note: Mandatory paper registration deadline on November 03, 2023 and optional supplementary material deadline on November 26, 2023. More info <a href='https://cvpr.thecvf.com/Conferences/2024'>here</a>.
-
-- title: ACML
-  year: 2023
-  id: acml23
-  link: https://www.acml-conf.org/2023
-  deadline: '2023-06-23 23:59:00'
-  timezone: UTC-12
-  place: Istanbul, Türkiye
-  date: November 11-14, 2023
-  start: 2023-11-11
-  end: 2023-11-14
-  sub: ML
-  
-- title: NeurIPS
-  year: 2023
-  id: neurips23
-  link: https://neurips.cc/Conferences/2023/
-  deadline: '2023-05-17 20:00:00'
-  abstract_deadline: '2023-05-11 20:00:00'
-  timezone: UTC
-  place: New Orleans, Louisiana, USA
-  date: December 10 - December 16, 2023
-  start: 2023-12-10
-  end: 2023-12-16
-  hindex: 278
-  sub: ML
-  note: Mandatory abstract deadline on May 11, 2023
-
-- title: ICLR
-  year: 2023
-  id: iclr23
-  link: https://iclr.cc/Conferences/2023
-  deadline: '2022-09-28 23:59:59'
-  abstract_deadline: '2022-09-21 23:59:59'
-  timezone: UTC-12
-  place: Kigali, Rwanda
-  date: May 01-05, 2023
-  start: 2023-05-01
-  end: 2023-05-05
-  hindex: 286
-  sub: ML
-  note: Mandatory abstract deadline on September 21, 2022. More info <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>.
+  id: ecdp2024
+  link: https://www.ecdp2024.org/
+  deadline: '2024-03-01 23:59:59'
+  timezone: UTC+2
+  place: Vilnius, Lithuania
+  date: June 5 - June 8, 2024
+  start: 2024-06-05
+  end: 2024-06-08
+  sub: PATH
+  note: Conference on digital pathology, includes more and more DL. Only short abstract, good networking event. Abstract deadline not yet mentioned, 1 March 2024 is a guess. More info <a href='https://www.ecdp2024.org/'>here</a>.
 
 - title: MICCAI
-  year: 2023
-  id: miccai2023
-  link: https://conferences.miccai.org/2023/en/
-  deadline: '2023-03-09 23:59:59'
-  timezone: America/Los_Angeles
-  place: Vancouver, Canada
-  date: October 8 - October 12, 2023
-  start: 2023-10-08
-  end: 2023-10-12
-  hindex: 78
+  year: 2024
+  id: miccai2024
+  link: https://conferences.miccai.org/2024/en/
+  deadline: '2024-03-07 23:59:59'
+  timezone: UTC+1
+  place: Marrakesh, Morocco
+  date: October 6 - October 10, 2024
+  start: 2024-10-06
+  end: 2024-10-10
   sub: CV
-  note: More info <a href='https://conferences.miccai.org/2023/'>here</a>.
+  note: More info <a href='https://conferences.miccai.org/2024/en/'>here</a>.
+
+- title: ESMO
+  year: 2024
+  id: esmo2024
+  link: https://www.esmo.org/meeting-calendar/esmo-congress-2024
+  deadline: '2024-04-01 23:59:59'
+  timezone: UTC+1
+  place: Barcelona, Spain
+  date: September 13 - September 17, 2024
+  start: 2024-09-13
+  end: 2024-09-17
+  sub: CLIN
+  note: Conference on medical oncology, includes some DL. Only short abstract, good networking event. Abstract deadline not yet mentioned, 1 April 2024 is a guess.  More info <a href='https://www.esmo.org/meeting-calendar/esmo-congress-2024'>here</a>.
+
 
 - title: ICLR
   year: 2022
@@ -238,6 +125,36 @@
   hindex: 203
   sub: ML
   note: Mandatory abstract deadline on September 28, 2021. More info <a href='https://iclr.cc/Conferences/2022/CallForPapers'>here</a>.
+
+- title: LOG
+  year: 2022
+  id: log22
+  full_name: Learning on Graphs Conference
+  link: https://logconference.org/
+  deadline: '2022-09-16 23:59:59'
+  abstract_deadline: 2022-09-09 23:59
+  timezone: UTC-12
+  place: Online
+  date: December, 09-12, 2022
+  start: 2022-12-09
+  end: 2022-12-12
+  sub: ML
+  note: This is the inaugural event of a conference dedicated to Graph Machine Learning
+
+- title: ICLR
+  year: 2023
+  id: iclr23
+  link: https://iclr.cc/Conferences/2023
+  deadline: '2022-09-28 23:59:59'
+  abstract_deadline: '2022-09-21 23:59:59'
+  timezone: UTC-12
+  place: Kigali, Rwanda
+  date: May 01-05, 2023
+  start: 2023-05-01
+  end: 2023-05-05
+  hindex: 286
+  sub: ML
+  note: Mandatory abstract deadline on September 21, 2022. More info <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>.
 
 - title: CVPR
   year: 2023
@@ -266,25 +183,39 @@
   hindex: -1
   sub: ML
 
-- title: LOG
-  year: 2022
-  id: log22
-  full_name: Learning on Graphs Conference
-  link: https://logconference.org/
-  deadline: '2022-09-16 23:59:59'
-  abstract_deadline: 2022-09-09 23:59
-  timezone: UTC-12
-  place: Online
-  date: December, 09-12, 2022
-  start: 2022-12-09
-  end: 2022-12-12
+- title: MICCAI
+  year: 2023
+  id: miccai2023
+  link: https://conferences.miccai.org/2023/en/
+  deadline: '2023-03-09 23:59:59'
+  timezone: America/Los_Angeles
+  place: Vancouver, Canada
+  date: October 8 - October 12, 2023
+  start: 2023-10-08
+  end: 2023-10-12
+  hindex: 78
+  sub: CV
+  note: More info <a href='https://conferences.miccai.org/2023/'>here</a>.
+
+- title: NeurIPS
+  year: 2023
+  id: neurips23
+  link: https://neurips.cc/Conferences/2023/
+  deadline: '2023-05-17 20:00:00'
+  abstract_deadline: '2023-05-11 20:00:00'
+  timezone: UTC
+  place: New Orleans, Louisiana, USA
+  date: December 10 - December 16, 2023
+  start: 2023-12-10
+  end: 2023-12-16
+  hindex: 278
   sub: ML
-  note: This is the inaugural event of a conference dedicated to Graph Machine Learning
-  
+  note: Mandatory abstract deadline on May 11, 2023
+
 - title: AI World Barcelona
   year: 2023
-  id: aiworldbarcelona23  # title as lower case + last two digits of year
-  full_name: AI World Barcelona - Generative AI Conference # full conference name
+  id: aiworldbarcelona23
+  full_name: AI World Barcelona - Generative AI Conference
   link: https://ai-world-barcelona.com
   deadline: '2023-06-07 23:59:59'
   timezone: UTC+2
@@ -293,4 +224,75 @@
   start: 2023-09-07
   end: 2023-09-08
   sub: NLP
-  note: Explore cutting-edge AI topics like ChatGPT, AutoGPT, DALL-E, Midjourney and more at AI World Barcelona — the world's largest generative AI conference.
+  note: "Explore cutting-edge AI topics like ChatGPT, AutoGPT, DALL-E, Midjourney\
+    \ and more at AI World Barcelona \u2014 the world's largest generative AI conference."
+
+- title: ACML
+  year: 2023
+  id: acml23
+  link: https://www.acml-conf.org/2023
+  deadline: '2023-06-23 23:59:00'
+  timezone: UTC-12
+  place: "Istanbul, T\xFCrkiye"
+  date: November 11-14, 2023
+  start: 2023-11-11
+  end: 2023-11-14
+  sub: ML
+
+- title: WACV
+  year: 2024
+  id: wacv24
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+  link: https://wacv2024.thecvf.com
+  deadline: '2023-08-30 11:59:59'
+  timezone: America/Los_Angeles
+  place: Waikoloa, Hawaii, USA
+  date: January 3-7, 2024
+  start: 2024-01-03
+  end: 2024-01-07
+  hindex: 76
+  sub: CV
+  note: This is the Round 2 submission. Paper Registration is on August 23rd 2023.
+    More info <a href='https://wacv2024.thecvf.com/submissions/'>here</a>.
+
+- title: ICLR
+  year: 2024
+  id: iclr24
+  link: https://iclr.cc/Conferences/2024
+  deadline: '2023-09-28 23:59:59'
+  abstract_deadline: '2023-09-23 23:59:59'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: May 07-11, 2024
+  start: 2024-05-07
+  end: 2024-05-11
+  hindex: 286
+  sub: ML
+  note: Mandatory abstract deadline on September 23, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
+
+- title: SaTML
+  year: 2024
+  id: satml24
+  full_name: IEEE Conference on Secure and Trustworthy Machine Learning
+  link: https://satml.org/
+  deadline: '2023-10-11 23:59:59'
+  abstract_deadline: '2023-10-04 23:59:59'
+  timezone: UTC-12
+  place: Toronto, Canada
+  date: April 2024
+  start: 2024-04-01
+  end: 2024-04-01
+  sub: ML
+  note: Check the website for exact conference dates.
+
+- title: ISMRM
+  year: 2024
+  id: ismsrm24
+  link: https://www.ismrm.org
+  deadline: '2023-11-08 23:59:59'
+  timezone: UTC
+  place: Singapore
+  date: May 04-09, 2024
+  start: 2024-05-05
+  end: 2024-05-09
+  sub: MRI

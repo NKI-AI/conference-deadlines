@@ -14,15 +14,12 @@
 - name: Magnetic Resonance Imaging
   sub: MRI
   color: "#0aff99"
-      # - name: Robotics
-      #   sub: RO
-      #   color: "#0aff99"
-      # - name: Speech/SigProc
-      #   sub: SP
-      #   color: "#580aff"
-      # - name: Data Mining
-      #   sub: DM
-      #   color: "#be0aff"
+- name: Pathology
+  sub: PATH
+  color: "#580aff"
+- name: Clinical
+  sub: CLIN
+  color: "#be0aff"
       # - name: Automated Planning
       #   sub: AP
       #   color: "#a432a8"
