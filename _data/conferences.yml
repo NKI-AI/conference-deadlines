@@ -1,5 +1,20 @@
 ---
 
+
+- title: ESMO
+  year: 2024
+  id: esmo2024
+  link: https://www.esmo.org/meeting-calendar/esmo-congress-2024
+  deadline: '2024-04-01 23:59:59'
+  timezone: UTC+1
+  place: Barcelona, Spain
+  date: June 5 - July 8, 2024
+  start: 2024-09-13
+  end: 2024-09-17
+  sub: CLIN
+  note: Conference on medical oncology, includes some DL. Only short abstract, good networking event. Abstract deadline not yet mentioned, 1 April 2024 is a guess. More info <a href='https://www.esmo.org/meeting-calendar/esmo-congress-2024'>here</a>.
+
+
 - title: ECDP
   year: 2024
   id: ecdp2024
