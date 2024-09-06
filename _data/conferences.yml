@@ -1,4 +1,16 @@
 ---
+- title: ISMRM
+  year: 2025
+  id: ismsrm25
+  link: https://www.ismrm.org
+  deadline: '2024-11-05 23:59:59'
+  timezone: UTC
+  place: Honolulu, Hawai, USA
+  date: May 10-15, 2024
+  start: 2025-05-10
+  end: 2025-05-15
+  sub: MRI
+
 - title: NAACL
   year: 2025
   id: naacl25
