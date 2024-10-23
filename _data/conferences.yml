@@ -1,4 +1,34 @@
 ---
+- title: MIDL
+  year: 2025
+  id: midl2025
+  link: https://2025.midl.io
+  deadline: '2025-01-24 23:59:59'
+  abstract_deadline: '2025-01-24 23:59:59'
+  timezone: AoE (UTC-12)
+  place: Slat Lake City
+  date: July 9-11, 2025
+  start: 2025-07-09
+  end: 2025-07-11
+  hindex: TBD
+  sub: Medical Imaging
+  note: Visa invitation letters available upon valid paper submission. Full paper registration deadline: January 17, 2025. Rebuttal period: February 21-28, 2025. Final decisions in mid-March 2025. Camera-ready deadline: June 1, 2025.
+
+- title: CVPR
+  year: 2025
+  id: cvpr25
+  link: https://cvpr.thecvf.com/Conferences/2025
+  deadline: '2024-11-15 06:59:59'
+  abstract_deadline: '2024-11-08 06:59:59'
+  timezone: GMT
+  place: Nashville, Tennessee, USA
+  date: June 10-17, 2025
+  start: 2025-06-10
+  end: 2025-06-17
+  hindex: 389
+  sub: CV
+  note: Mandatory paper registration deadline on November 07, 2023. More info <a href='https://cvpr.thecvf.com/Conferences/2025'>here</a>.
+  
 - title: ISMRM
   year: 2025
   id: ismsrm25
